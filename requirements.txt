@@ -1,0 +1,11 @@
+pandas==2.3.3
+numpy==1.26.4
+matplotlib
+seaborn==0.13.2
+phik
+scikit-learn==1.6.1
+mlxtend
+optuna
+catboost==1.2.10
+shap
+python-dotenv
