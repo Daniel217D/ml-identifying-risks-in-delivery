@@ -10,3 +10,4 @@ optuna
 catboost==1.2.10
 shap
 python-dotenv
+folium
